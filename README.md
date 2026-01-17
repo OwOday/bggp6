@@ -1,4 +1,4 @@
-Didn't have a lot of time and I accidentally sniped myself into seeing if I could write it with bytes made out of 6's
+Didn't have a lot of time and I accidentally sniped myself into seeing if I could write it with bytes made out of a single 6
 
 Why:
 What if I like, recycled my own 6 or something ???
